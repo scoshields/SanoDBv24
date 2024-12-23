@@ -1,0 +1,22 @@
+export const SPECIALTIES = [
+  'Anxiety',
+  'Depression',
+  'Trauma/PTSD',
+  'Relationships',
+  'Family Therapy',
+  'Child/Adolescent',
+  'Addiction',
+  'Grief',
+  'LGBTQ+',
+  'Eating Disorders',
+  'OCD',
+  'ADHD',
+  'Personality Disorders',
+  'Bipolar Disorder',
+  'Career Counseling',
+  'Life Transitions',
+  'Chronic Pain',
+  'Sleep Issues',
+  'Stress Management',
+  'Veterans'
+] as const;
